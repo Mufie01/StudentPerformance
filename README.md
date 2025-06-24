@@ -1,5 +1,9 @@
 Week 1 - EDA of Student Performance
 
+Hi! This is Mohmed Sayeed Mufeezdeen from Crescent Institute of Science and Technology, This is my Data Science Project of Week 1 on Student Performance Analysis as part of my internship at NSP Nexus.
+
+Overview
+
 This is an exploratory data analysis (EDA) task to investigate student performance data using Python. This involves an investigation into how gender, type of lunch, test preparation, and parental schooling relate to scores on exams in mathematics, reading, and writing.
 
 Dataset
